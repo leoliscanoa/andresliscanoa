@@ -21,7 +21,10 @@
 ![](https://img.shields.io/badge/Serverless-AWS[Cognito]-red)
 ![](https://img.shields.io/badge/Serverless-AWS[Lambda]-red)
 ![](https://img.shields.io/badge/Serverless-AWS[APIGateway]-red)
-![](https://img.shields.io/badge/Serverless-AWS[AppSync]-red)
+![](https://img.shields.io/badge/Serverless-AWS[APIGateway]-red)
+![](https://img.shields.io/badge/Serverless-AWS[SES]-red)
+![](https://img.shields.io/badge/Serverless-AWS[SNS]-red)
+![](https://img.shields.io/badge/Serverless-AWS[SQS]-red)
 ![](https://img.shields.io/badge/Serverless-CloudFunctions-blue)
 ![](https://img.shields.io/badge/Serverless-CloudRun-blue)
 </hr>
