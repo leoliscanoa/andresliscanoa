@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/Test-Mockito-lightgrey)
 ![](https://img.shields.io/badge/Test-Postman-orange)
 ![](https://img.shields.io/badge/Test-Newman-orange)
+![](https://img.shields.io/badge/Test-Test_Containers-8A2BE2)
 </hr>
 
 ![](https://img.shields.io/badge/Serverless-AWS[Cognito]-red)
